@@ -16,6 +16,8 @@ print(float(a))
 
 # adding to a set
 name_set.add("loreth")
+list2 = ["loreth", "favour", "grace"]
+name_set.update(list2)
 
 #set functions for update and union
 lang1 = {"C++","C#","Java","PHP","Dart"}
@@ -25,4 +27,5 @@ lang3 = lang1.union(lang2)
 
 print(lang1)
 print(lang3)
+print(name_set)
 
