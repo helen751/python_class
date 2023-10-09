@@ -8,3 +8,13 @@ teams = {"Alpha":["Helen", "Grace", "Favour"],
 #printing all the members of the harvard and Beta teams
 print(teams["Havard"][1])
 presidents = {"2010":"Goodluck Jonathan"}
+
+
+
+
+
+
+
+
+
+
