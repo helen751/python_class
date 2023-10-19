@@ -7,7 +7,7 @@ if mark > 80:
         
         
 # if statement with logical operators
-if mark > 70 or mark < 70:
+if mark > 70 and mark < 70:
     print("mark is between 60 and 70")
 
     
