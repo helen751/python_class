@@ -14,5 +14,5 @@ if option == 1:
     num1 = int(input("Enter a number: "))
     num2 = int(input("Enter another number: "))
     result = num1 * num2
-    print(num1, "X", num2, "=", result)
+    print(num1, "x", num2, "=", result)
 
