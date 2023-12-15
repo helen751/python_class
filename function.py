@@ -11,7 +11,7 @@ def welcome():
 welcome()
 
 
-a = 5.6
+a = 5.6N
 def add(a, b, c=12):
     #local variables
     result = a + b + c

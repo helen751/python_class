@@ -1,7 +1,7 @@
 import random
 
 print("\n\n\tWELCOME TO OUR GUESSING GAME")
-correct_number = random.randint(1,100)
+correct_number = random.randint(1,9)
 for i in range(1,6):
     num = int(input("\nPlease guess a number(1-100): "))
     
